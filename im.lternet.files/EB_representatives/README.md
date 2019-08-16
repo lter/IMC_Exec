@@ -1,4 +1,4 @@
-#IM Representatives to the Executive Board
+# IM Representatives to the Executive Board
 
 IMEXEC tends to target particular people to serve as EB representative, although anyone can volunteer. The IMC votes on who will represent them, usually at the annual IMC business meeting before the term begins.
 Service switch was typically at the Spring Science Council meeting, but beginning in 2017 or 2018 (TDB), it will begin after the Science Council meeting.
