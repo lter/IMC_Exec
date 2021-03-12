@@ -1,32 +1,41 @@
 # IM Executive Committee (IMExec)
 
-Current IMexec Membership
+## IMExec Membership:
 
-IMC co-Chairs: Suzanne Remillard (AND, 202x), Stevan Earl (CAP, 20xx)
+### co-chairs (site, term ending):
+- Suzanne Remillard (AND, 2021)
+- Stevan Earl (CAP, 2021)
 
-IMExec Members: Jason Downing (BNZ, 2020), Tim Whiteaker (BLE, 2021), Renée Brown (MCM, 2021)
+### members (site, term ending):
+- Greg Maurer (JRN, 2023)
+- Tim Whiteaker (BLE, 2021)
+- Renée Brown (MCM, 2021)
 
-Ex officio member: Dan Bahauddin (CDR, 2021, EB Representative), Marty Downs (LNCO), Kristin Vanderbilt (FCE, EDI Representative)
+### ex officio members (site, term ending, role):
+- Dan Bahauddin (CDR, 2021, EB Representative)
+- Renée Brown (MCM, 2024, EB Representative-elect (2021))
+- Marty Downs (LNO, appointed position, LNO Representative)
+- Kristin Vanderbilt (FCE, appointed position, EDI Representative)
 
-IMExec meets monthly via Video-Conference, and in person once/year (funds permitting), traditionally in late winter or early spring. Notes from all meetings are posted here by date. See the "Meeting Notes" link in the main menu under IMexec.
+IMExec meets monthly via video teleconference (VTC) and in-person annually, typically in association with the annual IMC meeting (conditions and funds permitting).
 
-### IMExec's responsibilities include:
+## IMExec responsibilities include:
 * plan logistics and agenda for the annual IMC meeting in consultation with IMC members
 * maintain a liaison to each IMC working group to keep the entire sub-committee up to date
-* coordinate teleconferences (VTC) for the IMC
-* prepare, oversee or request reports and minutes for IMC working group meetings and VTCs
+* coordinate video teleconferences (VTCs) for the IMC
+* prepare, oversee, or request reports and minutes for IMC working group meetings and VTCs
 * review proposals for IM-related activities
-* prepare report(s) for the LTER Executive Board
-* make recommendations to the EB and/or NISAC
+* prepare report(s) for the LTER Executive Board (EB)
+* make recommendations to the EB
 * coordinate responses to requests for information
-* maintain communication with other LTER Network committees and the NCO
-* coordinate participation of IMC members in development of LTER Network-level information management activities (e.g, Tiger Teams)
-* develop and coordinate partnerships between the IMC and other informatics groups (e.g. EDI [1])
+* maintain communication with other LTER Network committees and the LNO
+* coordinate participation of IMC members in development of LTER Network-level information management activities
+* develop and coordinate partnerships between the IMC and other informatics groups (e.g., the Environmental Data Initiative)
 
-### IMexec Role Descriptions
-* IMC Chair/Co-chair: set the agenda for monthly VTCs and at winter IMEXEC meeting, submit Spring report to EB, herd cats
-* EB Representative: Attend all EB VTCs and meetings, report to IMEXEC
-* Annual Reporter: Collate and prepare content and results of annual IMC meeting
-* Note Taker: Take notes, post notes, email IMC that notes are posted.
-* VTC Scheduler: Keep Virtual Watercooler webpage up-to-date, schedule VTCs via Doodle poll, send out a reminder email, ensure that notes are recorded and posted, keep track of participation.
-* Record Keeper: keep this webpage up to date. Tracks membership rotation.
+## IMExec role descriptions
+* chair/co-chair: ensure the agenda for monthly VTCs; coordinate the annual meeting of the IMC; submit reports as required; coordinate IMC activities and responses
+* EB representative: attend all EB meetings; report to IMExec
+* annual-meeting reporter: collate and prepare content and results of the annual IMC meeting for archiving and dissemination
+* rapporteur: take and post IMExec meeting notes
+* VTC coordinator: coordinate VTCs; send out reminders; ensure that VTC notes (and recordings if relevant) are recorded and posted; keep track of participation
+* record keeper: tracks membership rotation and IMExec logistics as needed and relevant
