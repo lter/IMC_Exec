@@ -1,5 +1,9 @@
 # IM Executive Committee (IMExec)
 
+This repository is for archiving materials of the Executive Committee of the LTER Networks Information Management Committee (IMExec). The primary materials here are IMExec meeting notes from 2019 and 2020 (in `IMExec_meeting_notes/`) and archived documents from the previous version of the Information Management Committee's website (im.lternet.edu).
+
+Below is information on the membership and responsibilities held by IMExec.
+
 ## IMExec Membership:
 
 ### co-chairs (site, term ending):
