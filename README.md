@@ -3,19 +3,18 @@
 ## IMExec Membership:
 
 ### co-chairs (site, term ending):
-- Suzanne Remillard (AND, 2021)
-- Stevan Earl (CAP, 2021)
+- Greg Maurer (JRN, 2023)
+- Tim Whiteaker (BLE, 2022)
 
 ### members (site, term ending):
-- Greg Maurer (JRN, 2023)
-- Tim Whiteaker (BLE, 2021)
-- Renée Brown (MCM, 2021)
+- Mary Martin (HBR, 2024, EB Representative-elect (2022))
+- Chris Turner (NGA, 2024)
+- Adam Sapp (GCE, 2024)
+- Sarah Elmendorf (NWT, 2025)
 
 ### ex officio members (site, term ending, role):
-- Dan Bahauddin (CDR, 2021, EB Representative)
-- Renée Brown (MCM, 2024, EB Representative-elect (2021))
 - Marty Downs (LNO, appointed position, LNO Representative)
-- Kristin Vanderbilt (FCE, appointed position, EDI Representative)
+- Corinna Gries (NTL, appointed position, EDI Representative)
 
 IMExec meets monthly via video teleconference (VTC) and in-person annually, typically in association with the annual IMC meeting (conditions and funds permitting).
 
