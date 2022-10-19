@@ -8,10 +8,9 @@ Below is information on the membership and responsibilities held by IMExec.
 
 ### co-chairs (site, term ending):
 - Greg Maurer (JRN, 2023)
-- Tim Whiteaker (BLE, 2022)
+- Mary Martin (HBR, 2024, EB Representative-elect (2022))
 
 ### members (site, term ending):
-- Mary Martin (HBR, 2024, EB Representative-elect (2022))
 - Chris Turner (NGA, 2024)
 - Adam Sapp (GCE, 2024)
 - Sarah Elmendorf (NWT, 2025)
