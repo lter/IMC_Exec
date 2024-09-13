@@ -6,16 +6,15 @@ Below is information on the membership and responsibilities held by IMExec.
 
 ## IMExec Membership:
 
-### co-chairs (site, term ending):
-- Greg Maurer (JRN, 2023)
-- Mary Martin (HBR, 2024, EB Representative-elect (2022))
+- Sarah Elmendorf (NWT)
+- Hillary Krumbholz (MCR)
+- Li Kui (SBC)
+- Mary Marek-Spartz (MSP)
+- Greg Maurer (JRN)
+- Gabriel Kamener (FCE)
 
-### members (site, term ending):
-- Chris Turner (NGA, 2024)
-- Adam Sapp (GCE, 2024)
-- Sarah Elmendorf (NWT, 2025)
+_ex officio_ members (site, term ending, role):
 
-### ex officio members (site, term ending, role):
 - Marty Downs (LNO, appointed position, LNO Representative)
 - Corinna Gries (NTL, appointed position, EDI Representative)
 
